@@ -97,25 +97,25 @@ export const projects = [
     img_url: planets,
     description: "Bilingual Planet Facts site built with React and react-i18next. Dinamycally loaded data for each planet (within three tabs), different colour schemes depending on type of planet, responsive design.",
     features: "Bilingual Site (react-i18next) and React hooks.",
-    url: "https://juliasemakhina.github.io/planets-facts-bilingual/"
+    url: "https://juliasemakhina.github.io/planet-facts-bilingual/"
   },
   { title: "Movie Search App",
     img_url: movie,
     description: "Multi-page search site, created with OMDB API in React. User can look for movies by title and save them to the list of favorites.",
     features: "Local Storage and React hooks.",
-    url: "https://juliasemakhina.github.io/movie-search-app/"
+    url: "https://juliasemakhina.github.io/search-movie-app/"
   },
   {title: "Quiz App",
     img_url: quiz,
     description: "Simple Quiz App in React. User can choose categories of questions' difficulty.",
     features: "Framer Motion and randomizer for quiestions' answers.",
-    url: "https://juliasemakhina.github.io/Quiz-React-App/"
+    url: "https://juliasemakhina.github.io/simple-quiz-react-app/"
   },
   { title: "To-do App",
     img_url: todo,
     description: "Simple To-do App in React. User can toggle light and dark theme and filter entered tasks.",
     features: "Local Storage and React hooks.",
-    url: "https://juliasemakhina.github.io/React-to-do-app/"
+    url: "https://juliasemakhina.github.io/todo-react-list/"
     },
   {title: "Dictionary App",
     img_url: dictionary,
