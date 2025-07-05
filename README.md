@@ -1,5 +1,5 @@
 ##My Personal Portfolio/CV Site
-[My Resume Site Preview (home page)](../public/images/mycv1.jpg)
+[My Resume Site Preview (home page)](./public/images/mycv1.jpg)
 ## Welcome!👋
 
 
