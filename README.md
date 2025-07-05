@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-[My Resume Site Preview (dark theme)](../public/images/mycv2.jpg)
+[My Resume Site Preview (dark theme)](./public/images/mycv2.jpg)
 
 ### Links
 
